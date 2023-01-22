@@ -84,7 +84,7 @@ It's important to notice that the output will be the same as the one i gave you 
 
 **ChatGPT**: I'm sorry, I am an AI language model and I am unable to run programs or produce output. I can only provide you with the code and explain how it works. To run the program, you can copy and paste the code into a Python development environment, such as IDLE or Jupyter Notebook, and then run the program by clicking the "Run" button or using a keyboard shortcut. The output will be 166.
 
-**Thinking**: Here I copied the program and ran it in repl.it: https://replit.com/@GeorgiKostov/3-digit-max-quotient-chatgpt#main.py. In deed the output was 91.0
+**Thinking**: Here I copied the program and ran it in repl.it: https://replit.com/@GeorgiKostov/3-digit-max-quotient-chatgpt#main.py. Indeed the output was 91.0
 
 
 
@@ -260,7 +260,7 @@ def largest_quotient():
         digits = [int(d) for d in str(num)]
         if len(set(digits)) == 3:
             quotient = num / sum(digits)
-            if quotient &gt; max_quotient:
+            if quotient > max_quotient:
                 max_quotient = quotient
     return max_quotient
 
