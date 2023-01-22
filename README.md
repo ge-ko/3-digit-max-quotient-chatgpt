@@ -293,7 +293,7 @@ To find the correct answer and the most efficient way is to use the mathematical
 
 
 
-**You**: No, the largest quotient is 91. Can you guess the 3 digit number for which it is on=btained?
+**You**: No, the largest quotient is 91. Can you guess the 3 digit number for which it is obtained?
 
 **ChatGPT**: I apologize for the confusion. You are correct that the largest quotient of a positive 3-digit number divided by the sum of its digits, if the 3 digits must be different is 91.
 
