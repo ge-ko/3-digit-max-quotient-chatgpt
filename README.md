@@ -4,7 +4,8 @@
 
 My son was given the following problem at school:
 ```
-What is the largest possible quotient of a positive 3-digit number divided by the sum of its digits, if the 3 digits must be different?
+What is the largest possible quotient of a positive 3-digit number
+divided by the sum of its digits, if the 3 digits must be different?
 ```
 
 I wanted to solve the problem so that I could explain to my son hwo to solve such class of problems.
@@ -31,6 +32,10 @@ With a bit of further simplification
 
 $$ \frac {11x + y} {x + y} = 10 \frac {x} {x + y} + 1 $$
 
+So, now I had to find
+
+$$ max \left( \frac {x} {x + y} \right) $$
+
 Obviously if $y = 1$ and $x = 9$ the quotient is the largest posible.
 
 So, the answer is
@@ -38,16 +43,17 @@ So, the answer is
 $$ \frac { 910 } { 9 + 1 + 0 } = \frac { 910 } { 10 } = 91 $$
 
 As I was not completely certain how sound my logic was, I decided to write a program to find the answer.
-But since my laptop was away and it is hard to type a program on a cell phone, I decided to ask **ChatGPT** for help.
+But since my laptop was away and it is hard to type a program on a cell phone, I decided to ask **ChatGPT** for help...
 
 
-## Chat session #1
+## ChatGPT session #1
 
 **You**: What is the largest possible quotient of a positive 3-digit number divided by the sum of its digits, if the 3 digits must be different?
 
 **ChatGPT**: The largest possible quotient of a positive 3-digit number divided by the sum of its digits, if the 3 digits must be different, is obtained by using the smallest possible sum of digits. The sum of the smallest 3 digits (1, 2, 3) is 6, so the largest possible quotient is obtained by dividing 999 (the largest possible 3-digit number) by 6, which equals 166.
 
 **Thinking**: Onbviously this answer was wrong, so I decided to ask **ChatGPT** to...
+
 
 
 **You**: Write a program to find the largest possible quotient of a positive 3-digit number divided by the sum of its digits, if the 3 digits must be different?
@@ -73,11 +79,13 @@ It's important to notice that the output will be the same as the one i gave you 
 **Thinking**: The program seems correct, but the  answer was still wrong, so I though I should ask **ChatGPT** to...
 
 
+
 **You**: Can you please run the program and print the output
 
 **ChatGPT**: I'm sorry, I am an AI language model and I am unable to run programs or produce output. I can only provide you with the code and explain how it works. To run the program, you can copy and paste the code into a Python development environment, such as IDLE or Jupyter Notebook, and then run the program by clicking the "Run" button or using a keyboard shortcut. The output will be 166.
 
 **Thinking**: Here I copied the program and ran it in repl.it: https://replit.com/@GeorgiKostov/3-digit-max-quotient-chatgpt#main.py. In deed the output was 91.0
+
 
 
 **You**: No, the output is 91. I did run it. Can you learn that?
@@ -88,7 +96,9 @@ I apologize for any confusion caused. My knowledge cutoff date was 2021 and I di
 
 **Thinking**: Does **ChatGPT** have the capacity to learn? Let's try another...
 
-## Chat session #2
+
+
+## ChatGPT session #2
 
 **You**: What is the largest possible quotient of a positive 3-digit number divided by the sum of its digits, if the 3 digits must be different?
 
@@ -226,7 +236,9 @@ The number 910 is the optimal solution in this scenario as it has the largest di
 
 **Thinking**: Hmm, **ChatGPT** is not learning, but aplogizes very well. Let's try again...
 
-## Chat session #3
+
+
+## ChatGPT session #3
 
 **You**: What is the largest possible quotient of a positive 3-digit number divided by the sum of its digits, if the 3 digits must be different?
 
