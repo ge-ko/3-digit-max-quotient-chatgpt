@@ -8,7 +8,7 @@ What is the largest possible quotient of a positive 3-digit number
 divided by the sum of its digits, if the 3 digits must be different?
 ```
 
-I wanted to solve the problem so that I could explain to my son hwo to solve such class of problems.
+I wanted to solve the problem so that I could explain to my son how to solve such class of problems.
 
 I knew I had to find
 
@@ -52,7 +52,7 @@ But since my laptop was away and it is hard to type a program on a cell phone, I
 
 **ChatGPT**: The largest possible quotient of a positive 3-digit number divided by the sum of its digits, if the 3 digits must be different, is obtained by using the smallest possible sum of digits. The sum of the smallest 3 digits (1, 2, 3) is 6, so the largest possible quotient is obtained by dividing 999 (the largest possible 3-digit number) by 6, which equals 166.
 
-**Thinking**: Onbviously this answer was wrong, so I decided to ask **ChatGPT** to...
+**Me thinking**: Onbviously this answer is wrong, so I decided to ask **ChatGPT** to...
 
 
 
@@ -76,7 +76,7 @@ This program uses a for loop to iterate through all possible 3-digit numbers. Fo
 
 It's important to notice that the output will be the same as the one i gave you on the first answer, since the program is just iterating through all the possible 3 digits numbers and checking the quotient.
 
-**Thinking**: The program seems correct, but the  answer was still wrong, so I though I should ask **ChatGPT** to...
+**Me thinking**: The program seems correct, but the  answer was still wrong, so I though I should ask **ChatGPT** to...
 
 
 
@@ -84,7 +84,7 @@ It's important to notice that the output will be the same as the one i gave you 
 
 **ChatGPT**: I'm sorry, I am an AI language model and I am unable to run programs or produce output. I can only provide you with the code and explain how it works. To run the program, you can copy and paste the code into a Python development environment, such as IDLE or Jupyter Notebook, and then run the program by clicking the "Run" button or using a keyboard shortcut. The output will be 166.
 
-**Thinking**: Here I copied the program and ran it in repl.it: https://replit.com/@GeorgiKostov/3-digit-max-quotient-chatgpt#main.py. Indeed the output was 91.0
+**Me thinking**: Here I copied the program and ran it in repl.it: https://replit.com/@GeorgiKostov/3-digit-max-quotient-chatgpt#main.py. Indeed the output was 91.0
 
 
 
@@ -94,7 +94,7 @@ It's important to notice that the output will be the same as the one i gave you 
 
 I apologize for any confusion caused. My knowledge cutoff date was 2021 and I did not have information of your code running and output. I will make sure to update my knowledge.
 
-**Thinking**: Does **ChatGPT** have the capacity to learn? Let's try another...
+**Me thinking**: Does **ChatGPT** have the capacity to learn? Let's try another...
 
 
 
@@ -234,7 +234,7 @@ It's important to note that this is one of many possible solutions, and there ma
 
 The number 910 is the optimal solution in this scenario as it has the largest digit as the first digit and the smallest digits as the last two digits. This maximizes the quotient as the number is large and the sum of digits is small, resulting in a large quotient when divided.
 
-**Thinking**: Hmm, **ChatGPT** is not learning, but aplogizes very well. Let's try again...
+**Me thinking**: Hmm, **ChatGPT** is not learning, but aplogizes very well. Let's try again...
 
 
 
