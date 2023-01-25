@@ -234,7 +234,7 @@ It's important to note that this is one of many possible solutions, and there ma
 
 The number 910 is the optimal solution in this scenario as it has the largest digit as the first digit and the smallest digits as the last two digits. This maximizes the quotient as the number is large and the sum of digits is small, resulting in a large quotient when divided.
 
-**Me thinking**: Hmm, **ChatGPT** is not learning, but aplogizes very well. Let's try again...
+**Me thinking**: Hmm, **ChatGPT** is not learning, but apologizes very well. Let's try again...
 
 
 
