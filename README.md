@@ -279,3 +279,4 @@ I apologize for any confusion caused by my previous mistakes and the lack of inf
 2. ChatGPT can write a brute force program to solve math problems
 3. ChatGPT cannot run programs
 4. ChatGPT is bullshitting and apologetic
+5. ChatGPT is not learning new things
