@@ -272,3 +272,10 @@ I apologize for any confusion caused by my previous mistakes and the lack of inf
 **I**: What is the largest possible quotient of a positive 3-digit number divided by the sum of its digits, if the 3 digits must be different?
 
 **ChatGPT**: The largest possible quotient of a positive 3-digit number divided by the sum of its digits, if the 3 digits must be different is 91. The 3-digit number that gives this quotient is 910. The digits of 910 are 9, 1 and 0, which are different and the sum of the digits is 9 + 1 + 0 = 10. The quotient is 910 / 10 = 91.
+
+## Conclusion
+
+1. ChatGPT cannot solve math problems
+2. ChatGPT can write a brute force program to solve math problems
+3. ChatGPT cannot run programs
+4. ChatGPT is bullshitting and apologetic
