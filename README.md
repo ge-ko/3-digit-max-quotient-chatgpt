@@ -80,7 +80,7 @@ It's important to notice that the output will be the same as the one i gave you 
 
 **ChatGPT**: I'm sorry, I am an AI language model and I am unable to run programs or produce output. I can only provide you with the code and explain how it works. To run the program, you can copy and paste the code into a Python development environment, such as IDLE or Jupyter Notebook, and then run the program by clicking the "Run" button or using a keyboard shortcut. The output will be 166.
 
-**I thought**: Here I copied the program and ran it in repl.it: <https://replit.com/@GeorgiKostov/3-digit-max-quotient-chatgpt#main.py>. Indeed the output was 91.0
+**I did**: copy the program and run it in repl.it: <https://replit.com/@GeorgiKostov/3-digit-max-quotient-chatgpt#main.py>. Indeed the output was 91.0 as I expected.
 
 **I**: No, the output is 91. I did run it. Can you learn that?
 
